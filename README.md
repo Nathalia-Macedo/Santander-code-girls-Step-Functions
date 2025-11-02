@@ -14,6 +14,10 @@ Pra mim, é tipo um **orquestrador de serviços da AWS**. Você cria um fluxo (u
 
 ---
 
+![Imagem do WhatsApp de 2025-11-02 à(s) 14 05 42_accd8ced](https://github.com/user-attachments/assets/0f4c6e18-9045-482c-b99d-16da045727dd)
+
+
+
 ## Como funciona na prática?
 
 1. **Você define o fluxo em JSON (ASL - Amazon States Language)**
